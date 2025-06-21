@@ -9,5 +9,5 @@
 [Qlitre's Blog](https://qlitre-weblog.com/)
 
 
-## Private Dialy
+## Private Diary
 [QLITRE DIALY](https://www.qlitre-dialy.ink/)
